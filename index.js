@@ -28,7 +28,7 @@ function arraycheck(diceArray) {
 }
 
 var judge = arraycheck(diceArray);
-console.log(judge);
+
 
 if (judge === "triple") {
   document.querySelector("h1").innerHTML = "Triple!!";
