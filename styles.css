@@ -32,14 +32,19 @@ img {
   width: 70%;
 }
 
+.prompt{
+  width: 100%;
+}
 .tmd{
   margin: 12% auto 4%;
+  width: 100%;
+  height: 200px;
   border-radius: 30px;
-  border-width: 5px;
+  border-width: 10px;
   background-color: transparent;
 }
 .tmd-font {
-  font-size: 2.8rem;
+  font-size: 3.7rem;
   text-shadow: 2px 0 #232931;
 }
 
